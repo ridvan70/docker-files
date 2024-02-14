@@ -12,3 +12,9 @@ pip install pdfplumber
 ```
 pip install pyarrow
 ```
+
+# '\n' test
+01-APP\n02-BRW\n03-3RI
+
+
+01-APP<br/>02-BRW<br/>03-3RI
